@@ -17,7 +17,7 @@ Hi! I am Shatakshi.
 About Me 
 
 - 📕 Currently, I am studying Computer Science and Engineering.
-- 💻 I am a Frontend eveloper as well as AI/ML enthusiast with a passion for learning new technologies and solving problems in this emerging feild.
+- 💻 I am a Frontend eveloper as well as AI/ML enthusiast with a passion for learning new technologies and solving problems in this emerging field.
 - 📚 Always trying to learn new technologies and frameworks and programming paradigms.
 
 * :handshake: I'm looking to collaborate with other developers and designers to create front-end and back-end applications.
