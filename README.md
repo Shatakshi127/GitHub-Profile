@@ -7,7 +7,7 @@
 <div style="margin-top:50px">
 Hi! I am Shatakshi.
 
-About Me 
+**About Me** 
 
 - 📕 Currently, I am studying Computer Science and Engineering.
 - 💻 I am a Frontend eveloper as well as AI/ML enthusiast with a passion for learning new technologies and solving problems in this emerging field.
@@ -15,7 +15,7 @@ About Me
 
 * :handshake: I'm looking to collaborate with other developers and designers to create front-end and back-end applications.
 
-Skills 
+**Skills**
 
 - Web Scraping with Python (Beautiful Soup)
 - Programming Languages: C, C++, Java, Python
