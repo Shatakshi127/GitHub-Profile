@@ -2,14 +2,7 @@
 <head>
 </head>
 <body>
-<img src="./bg-3.gif" style="margin-bottom:50px"/>
-<div style="display:flex;flex-direction:row;justify-content:space-evenly;width:100%;align-items:center;">
-<a href="https://www.linkedin.com/in/shatakshi-saxena-a3863a221/" style="margin:20px">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Shatakshi127" style="margin:20px"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
+
 
 <div style="margin-top:50px">
 Hi! I am Shatakshi.
@@ -30,6 +23,15 @@ Skills
 - Database: SQL
 - Designing: Figma, Adobe Photoshop, Canva
 
+</div>
+  
+  <img src="./bg-3.gif" style="margin-bottom:50px"/>
+<div style="display:flex;flex-direction:row;justify-content:space-evenly;width:100%;align-items:center;">
+<a href="https://www.linkedin.com/in/shatakshi-saxena-a3863a221/" style="margin:20px">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Shatakshi127" style="margin:20px"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </div>
 
 <hr/>
