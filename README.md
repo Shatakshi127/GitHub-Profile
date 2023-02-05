@@ -5,7 +5,8 @@
 
 
 <div style="margin-top:50px">
-Hi! I am Shatakshi.
+Hi! I am Shatakshi. I am an optimistic, affable, exuberant, and self-motivated student with excellent organizational skills and a good eye for detail. I am a go-getter and always thrive to achieve the highest standard possible at any task by studying concepts and applying them with clarity in my thought process.
+I am looking forward to meaningful and constructive collaborations, connections, and conversations to explore greater opportunities in order to sharpen my skills.
 
 **About Me** 
 
