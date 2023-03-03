@@ -25,6 +25,7 @@ I am looking forward to meaningful and constructive collaborations, connections,
 - Development: HTML, CSS, JS (Learning Full stack web development along with UI/UX design) 
 - Database: SQL
 - Designing: Figma, Adobe Photoshop, Canva
+- Others: AI,ML
 
 </div>
   
