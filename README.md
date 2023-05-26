@@ -36,6 +36,8 @@ Hello there! My name is Shatakshi, and I'm a positive, friendly, and enthusiasti
 </a> -->
 </div>
 
+  ![](https://komarev.com/ghpvc/?username=Shatakshi127)
+  
 <hr/>
 <div style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;widht:100%">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
