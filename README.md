@@ -54,5 +54,7 @@ Hello there! My name is Shatakshi, and I'm a positive, friendly, and enthusiasti
 </div>
 <hr/>
 
+  [![Shatakshi945's GitHub | Languages Over Time](https://stats.quine.sh/Shatakshi945/languages-over-time?theme=light)](https://quine.sh)
+  
 </body>
 </html>
