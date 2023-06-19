@@ -54,7 +54,14 @@ Hello there! My name is Shatakshi, and I'm a positive, friendly, and enthusiasti
 </div>
 <hr/>
 
-  [![Shatakshi945's GitHub | Languages Over Time](https://stats.quine.sh/Shatakshi945/languages-over-time?theme=light)](https://quine.sh)
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shatakshi127&show_icons=true&locale=en&layout=compact" alt="Shatakshi127" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shatakshi127&show_icons=true&locale=en" alt="Shatakshi127" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shatakshi127&" alt="Shatakshi127" /></p>
+  
+<!--   [![Shatakshi945's GitHub | Languages Over Time](https://stats.quine.sh/Shatakshi945/languages-over-time?theme=light)](https://quine.sh) -->
   
 </body>
 </html>
