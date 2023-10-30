@@ -24,9 +24,6 @@ Hello there! My name is Shatakshi, and I'm a positive, friendly, and enthusiasti
 - Databases: SQL (MySQL, Oracle), NoSQL (MongoDB), PostgreSQL
 - Others: Artificial Intelligence, Machine Learning, Deep Learning, Web Development, Web Scraping using Python.
 
-* :handshake: I'm looking to collaborate with other developers and designers to create front-end and back-end applications.
-
-
 
 
 </div>
