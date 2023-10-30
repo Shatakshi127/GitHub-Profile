@@ -19,9 +19,12 @@ Hello there! My name is Shatakshi, and I'm a positive, friendly, and enthusiasti
   **Skills**
 
 
--Programming Languages :   C/C++, Java, Python, JavaScipt, R, Go, MATLAB	 
+-Programming Languages :   C/C++, Java, Python, JavaScipt, R, MATLAB	 
+
 -Library/Frameworks :      NumPy, Pandas, PyTorch, Tensorflow, Scikit-learn, BeautifulSoup, Selenium, Bootstrap, jQuery
+
 -Databases :               SQL (MySQL, Oracle), NoSQL (MongoDB), PostgreSQL  
+
 -Others :                  Artificial Intelligence, Machine Learning, Deep Learning, Web Dev, Web Scraping using Python.   
 
 
