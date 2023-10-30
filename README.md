@@ -16,8 +16,8 @@ Hello there! My name is Shatakshi, and I'm a positive, friendly, and enthusiasti
 - 💻 I am a Frontend Developer and have experience in AI/ML/DL. I have a passion for learning new technologies and solving problems. Currently I am exploring Blockchain.
 - 📚 Always trying to learn new technologies, frameworks and programming paradigms.
 
-- 
-  **Skills**
+
+**Skills**
 
 - Programming Languages: C/C++, Java, Python, JavaScript, R, MATLAB
 - Library/Frameworks: NumPy, Pandas, PyTorch, TensorFlow, Scikit-learn, BeautifulSoup, Selenium, Bootstrap, jQuery
