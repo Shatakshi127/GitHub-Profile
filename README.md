@@ -4,6 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shatakshi127&label=Profile%20views&color=0e75b6&style=flat" alt="Shatakshi127" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shatakshi127" alt="Shatakshi127" /></a> </p>
 
+**About Me** 
+  
+Hello there! My name is Shatakshi, and I'm a positive, friendly, and enthusiastic student who is highly self-driven. I possess strong organizational abilities and pay close attention to even the smallest details. I'm a proactive individual, constantly striving to reach the utmost level of excellence in everything I undertake. I dedicate time to thoroughly comprehend concepts and apply them with clarity in my thinking. I eagerly anticipate engaging in meaningful and productive collaborations, connections, and discussions, as they offer opportunities for me to enhance my skills.
+
 - 🔭 I am a 3rd year student pursuing B.Tech in Computer Science and Engineering.
 
 - 🌱 I’m currently learning **Blockchain**
@@ -12,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shatakshi127](https://github.com/Shatakshi127)
 
-- 💬 Ask me about 
+- 💬 Ask me about:- 
 - Programming Languages: C/C++, Java, Python, JavaScript, R, MATLAB
 - Library/Frameworks: NumPy, Pandas, PyTorch, TensorFlow, Scikit-learn, BeautifulSoup, Selenium, Bootstrap, jQuery
 - Databases: SQL (MySQL, Oracle), NoSQL (MongoDB), PostgreSQL
